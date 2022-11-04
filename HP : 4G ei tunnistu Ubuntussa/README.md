@@ -1,4 +1,4 @@
-Avaa 99-XXX.rules.txt tiedosto 
+Avaa 99-XXX.rules tiedosto 
 Kopioi tiedoston tekstisisältö (ctrl + a ja ctrl + c)
 
 avaa terminaali (ctrl + shift + t )
