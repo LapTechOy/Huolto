@@ -6,7 +6,7 @@ Syötä komento:
 	sudo nano /lib/udev/rules.d/99-XXX.rules
 
 
-nano tekstieditori avautuu. Pasteta kopioimasi säännöt tälle nanon luomalle tiedostolle ( ctrl + shift + v )
+nano tekstieditori avautuu. Liitä kopioimasi säännöt tälle nanon luomalle tiedostolle ( ctrl + shift + v )
 
 Tallenna ( ctrl + o )
 
